@@ -1,5 +1,9 @@
 public class Shape {
-    public static void main(String[] args) {
-        System.out.println("Hello world!");
+    public double getCircumference() {
+        return 0;
+    }
+
+    public double getArea() {
+        return 0;
     }
 }
